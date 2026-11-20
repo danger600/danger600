@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 👋 Hi, I'm Remy Nsanzimana
+# 👋 Hi, I'm Remy Nsanzimana
 
 ### Full-Stack Software Developer | React.js | Vue.js | Node.js | Python
 
@@ -96,19 +96,6 @@ I'm passionate about developing modern, responsive, and scalable software soluti
 
 <p align="center">
   <b>💡 Building today. Innovating tomorrow.</b>
-  <br/>
-  Developed by Remmy | L5 SWD · @tigernsanz
-</p>
-**danger600/danger600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <br/>
+    Developed by Remmy | L5 SWD · @tigernsanz
+  </p>
