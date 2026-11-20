@@ -72,6 +72,7 @@ I'm passionate about developing modern, responsive, and scalable software soluti
 | [UBUBIKO SMART](https://github.com/danger600/UBUBIKO-SMART) | School inventory management system |
 | [LIVE SCORE HUB](https://github.com/danger600/LIVE-SCORE-HUB) | Live sports scores platform |
 | [Student Management System](https://github.com/danger600/Student-Management-System) | Student records management |
+| [Alibaba Lens](https://github.com/danger600/danger600) | welcome to dev |
 
 ## 📊 GitHub Statistics
 
